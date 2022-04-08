@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "discord.js": "^13.6.0",
+    "sqlite": "^4.0.25"
+  },
+  "name": "chronica",
+  "version": "0.1.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Koko Ayame (KoKoNya)",
+  "license": "MIT",
+  "description": "Discord bot for TRPG Project : Netea"
+}
